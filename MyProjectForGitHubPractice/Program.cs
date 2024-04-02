@@ -10,7 +10,7 @@ namespace MyProjectForGitHubPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I am sentient");
+            Console.WriteLine("I am sentient!");
         }
     }
 }
